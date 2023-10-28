@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav {
+  padding: 25px 0;
+  background-color: rgb(226, 141, 43);
+}
+.nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  
+}
+.nav ul li {
+  margin: 0px 20px;
+  text-decoration: none;
+}
+body {
+  background-color: blue;
+}
